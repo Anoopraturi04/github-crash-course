@@ -1,6 +1,6 @@
 # GIT-AND-GITHUB-CRASH-COURSE
 
-# Git Commands 
+# Git Important Commands 
 
 # git init
 # git add .
