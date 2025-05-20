@@ -1,6 +1,6 @@
-# GITHUB-CRASH-COURSE
+# GIT-AND-GITHUB-CRASH-COURSE
 
-# Git commands 
+# Git Commands 
 
 # git init
 # git add .
