@@ -27,6 +27,9 @@ function mul1(b1, b2){
     return b1*b2
 }
 
+<<<<<<< Updated upstream
 function mul2(b1, b2){
     return b1*b2
 }
+=======
+>>>>>>> Stashed changes
