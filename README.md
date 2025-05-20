@@ -14,6 +14,8 @@
 # git log --oneline
 # git diff
 # git branch <branch-name>
+# git checkout -b "<branch-name>"
 # git checkout <branch-name>
 # git branch
 # git merge origin/<branch-name>
+
