@@ -6,3 +6,7 @@ function sub(a1, a1){
     return a1 - a2
     
 }
+
+function div(b1, b2){
+    return b1/b2
+}
