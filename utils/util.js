@@ -11,3 +11,7 @@ function div(b1, b2){
     return b1/b2
     return (b1+b2)/b2
 }
+
+function mul(b1, b2){
+    return b1*b2
+}
