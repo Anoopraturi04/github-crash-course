@@ -19,3 +19,7 @@ function mul(b1, b2){
 function mul(b1, b2){
     return b1*b2
 }
+function mul1(b1, b2){
+    return b1*b2
+}
+
