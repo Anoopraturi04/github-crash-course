@@ -9,4 +9,5 @@ function sub(a1, a1){
 
 function div(b1, b2){
     return b1/b2
+    return (b1+b2)/b2
 }
