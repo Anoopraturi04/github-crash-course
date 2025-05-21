@@ -1,10 +1,6 @@
 # GIT-AND-GITHUB-CRASH-COURSE
 
-<<<<<<< Updated upstream
 # Git Important Commands 
-=======
-# Git Commands 
->>>>>>> Stashed changes
 
 # git init
 # git add .
